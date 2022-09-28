@@ -3,7 +3,7 @@ package sesliHarfler;
 public class Main {
 
 	public static void main(String[] args) {
-char harf='c';
+char harf='e';
 		
 		
 		if (harf=='I'|| harf=='A'||harf == 'O'||harf =='U'|| harf=='ı'|| harf=='a'||harf == 'o'||harf =='u') {

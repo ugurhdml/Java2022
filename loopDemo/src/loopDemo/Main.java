@@ -4,7 +4,7 @@ public class Main {
 
 	public static void main(String[] args) {
 		// For
-		for (int i = 0; i <= 10; i++) {
+		for (int i = 1; i <= 10; i++) {
 			System.out.println(i);
 		}
 
@@ -26,11 +26,11 @@ public class Main {
 		System.out.println("While döngüsü bitti");
 		
 		//Do-While 
-		int j=100;
+		int j=2;
 		do {
 			System.out.println("Loglandı");
 			System.out.println(j);
-			j+=1;
+			j+=3;
 		}while(j<10);
 		System.out.println("Do-While döngüsü bitti");
 	}
